@@ -6,3 +6,12 @@
     display: block;
     align-content: center;
 }
+.bg{
+    background: #2F303A;
+    text-decoration: #FFFF;
+    right: center;
+}
+.par{
+    margin: 10px;
+    display: flex;
+}
